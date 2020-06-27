@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecc4da4b.chunk.css",
+    "main.js": "/static/js/main.f95dc1c4.chunk.js",
+    "main.js.map": "/static/js/main.f95dc1c4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.88126f9e.chunk.js": "/static/js/2.88126f9e.chunk.js",
+    "static/js/2.88126f9e.chunk.js.map": "/static/js/2.88126f9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3e3db6cb045d34816c26c6d356eec89.js": "/precache-manifest.d3e3db6cb045d34816c26c6d356eec89.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ecc4da4b.chunk.css.map": "/static/css/main.ecc4da4b.chunk.css.map",
+    "static/media/84015MSH__MG_0205.jpg": "/static/media/84015MSH__MG_0205.e7908ec4.jpg",
+    "static/media/IMG_20171204_080721.jpg": "/static/media/IMG_20171204_080721.3cf403fc.jpg",
+    "static/media/arabic-coffee.jpg": "/static/media/arabic-coffee.78e2d980.jpg",
+    "static/media/breakfastAndCoffee.jpg": "/static/media/breakfastAndCoffee.f896bfc7.jpg",
+    "static/media/chef1.jpg": "/static/media/chef1.b5b70961.jpg",
+    "static/media/chef2.jpg": "/static/media/chef2.8088ca62.jpg",
+    "static/media/chef3.jpg": "/static/media/chef3.025ddc61.jpg",
+    "static/media/crispyFriedChicken.jpg": "/static/media/crispyFriedChicken.c719acae.jpg",
+    "static/media/left-hero.jpg": "/static/media/left-hero.1f5b3ed1.jpg"
+  }
+}
